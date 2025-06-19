@@ -1,0 +1,11 @@
+venvDjangoTut/
+__pycache__/
+
+djangotutorial/mysite/settings.py
+
+*.sqlite3
+*.py[cod]
+
+.DS_Store
+
+*.log
