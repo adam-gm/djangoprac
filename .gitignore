@@ -1,8 +1,6 @@
 venvDjangoTut/
 __pycache__/
 
-djangotutorial/mysite/settings.py
-
 *.env
 *.sqlite3
 *.py[cod]
